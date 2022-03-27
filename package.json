@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot-starter",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node Index.js",
+    "build": "echo \"build\""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.19.2",
+    "telegram-bot-4all": "git+https://github.com/jrichardsz/telegram-bot-4all"
+  }
+}
